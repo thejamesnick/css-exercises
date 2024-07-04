@@ -1,0 +1,21 @@
+/* Adding some styling to this style page*/
+
+#odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

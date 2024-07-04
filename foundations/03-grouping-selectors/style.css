@@ -1,0 +1,16 @@
+/*Adding styling to this page*/
+
+button {
+    font-size:28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btn-one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-two {
+    background-color: yellow;
+}
